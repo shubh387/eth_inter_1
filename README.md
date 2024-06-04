@@ -1,5 +1,5 @@
 # Smart Contract Project
-**MODULE - 1**
+**Module: Functions and Errors - ETH + AVAX**
 
 There are three Error Handling methods in Solidity whose implementation and explanation is shown below.
 1. require
