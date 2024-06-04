@@ -26,7 +26,7 @@ contract Account
     function deposit(uint amount) public   {
         balance += amount;
         if (balance > 5000) {
-            revert("Your balance cannot be more than 50000");
+            revert("Your balance cannot be more than 5000");
         }
     }
 
